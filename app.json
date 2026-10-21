@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "GameVault",
+    "slug": "gamevault",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "android": {
+      "package": "com.gamevault.app"
+    }
+  }
+}
